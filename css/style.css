@@ -21,6 +21,14 @@ menu:hover{
 }
 body{
     font-family: "Raleway", "Roboto", sans-serif;
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+}
+
+.listas{
+    text-decoration: none;
 }
 h1{
     color: blue;
